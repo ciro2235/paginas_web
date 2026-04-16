@@ -12,3 +12,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.dark {
+    background: #111;
+    color: white;
+}
