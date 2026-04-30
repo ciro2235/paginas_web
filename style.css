@@ -1,7 +1,8 @@
-h1 {
-    color: brown;
-    background-color: blanchedalmond;
+p {
+    background-color:  #2851A3;
+    color: white;
 }
+
 
 h2 {
     color: blueviolet;
@@ -15,4 +16,58 @@ p {
 .dark {
     background: #111;
     color: white;
+}
+.TituloPrincipal {
+    background-color: #52080f;
+    color: #f1ebeb;
+}
+
+.boton {
+ background-color: #bcbe15;
+ color: #c3c494;
+ border-radius: 2.5rem;
+ width: 4.5rem;
+ height: 4.5rem;
+}
+
+.fondoNaranja {
+    background-color: orange;
+}
+
+.fondoNegro {
+    background-color: black;
+}
+.fondoVioleta {
+    background-color: violet;
+}
+.fondoPurpura {
+    background-color: purple;
+}
+#boton {
+    background-color: aqua;
+}
+
+.Menuprincipal {
+    width: 80%;
+    height: 10rem;
+    margin: auto;
+    padding-top: 2rem;
+    background-color: #f71b9be0;
+    gap: 1rem;
+    display: flex;
+    padding-top: auto;
+    justify-content: center;
+} 
+
+.paginas {
+    background-color: orangered;
+    height: 2rem;
+    list-style: none;
+    
+}
+
+a{
+    color: #ffff;
+    text-decoration: none;
+    font-size: xx-large;
 }
